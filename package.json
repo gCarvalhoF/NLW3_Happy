@@ -12,9 +12,10 @@
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.1",
+    "node-pre-gyp": "^0.17.0",
     "nodemon": "^2.0.5",
-    "sqlite3": "5.0.0",
-    "sqlite-async": "^1.1.2"
+    "sqlite-async": "^1.1.2",
+    "sqlite3": "5.0.0"
   },
   "engines": {
     "node": "14.x"

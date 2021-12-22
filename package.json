@@ -13,10 +13,6 @@
     "express": "^4.17.1",
     "hbs": "^4.1.1",
     "nodemon": "^2.0.5",
-<<<<<<< HEAD
     "sqlite-async": "^1.1.2"
-=======
-    "sqlite-async": "^1.1.0"
->>>>>>> dae208abe6f6ef4a6073d4d46e50d394ac8b0f93
   }
 }

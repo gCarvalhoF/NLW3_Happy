@@ -8,3 +8,6 @@ The event is divided into tracks (Discovery and Omnistack), I for one chose the 
 In this edition the project was an platform for booking times to visit kids in orphanages.
 
 It was taught and developed many technologies, such as, Node.js, Javascript, CSS3, HTML5.
+
+## Host | Hospedagem
+- [NLW3-Happy](https://nlw3-happy-gabrielcf.herokuapp.com)
